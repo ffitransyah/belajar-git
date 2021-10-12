@@ -1,1 +1,3 @@
 belajar git
+
+karena git perlu untuk bisa hosting file di repository
